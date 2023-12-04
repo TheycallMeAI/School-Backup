@@ -1,0 +1,6 @@
+PseudoCode:
+INPUT Ask the user there first name and store in it in a variable called name
+PRINT Hello following the users first name
+INPUT Ask the user there age and store in it in a variable called age
+FUNCTION Tell how old the user will be in 20 years and 10 years.
+FUNCTION Tell how old the user will be in 5 years.
