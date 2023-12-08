@@ -8,7 +8,7 @@
 import random
 
 # Assign the ABCD's
-char = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@$%&*"
+char = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*-=_+(/){}|:?,.;[]"
 length = int(input("Type the length of your password (integer only!!!) : "))
 password = ""
 # Make a Choice
